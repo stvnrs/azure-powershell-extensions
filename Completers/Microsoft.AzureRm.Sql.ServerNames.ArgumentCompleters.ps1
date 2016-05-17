@@ -70,7 +70,6 @@ $ArgumentCompleter = @{
 			'New-AzureRmSqlDatabaseDataMaskingRule'
 			'New-AzureRmSqlDatabaseSecondary'
 			'New-AzureRmSqlElasticPool'
-			'New-AzureRmSqlServer'
 			'New-AzureRmSqlServerCommunicationLink'
 			'New-AzureRmSqlServerFirewallRule'
 			'Remove-AzureRmSqlDatabase'

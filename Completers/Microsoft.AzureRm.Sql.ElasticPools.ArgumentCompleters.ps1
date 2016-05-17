@@ -56,7 +56,6 @@ $ArgumentCompleter = @{
 			'Get-AzureRmSqlElasticPoolDatabase'
 			'New-AzureRmSqlDatabase'
 			'New-AzureRmSqlDatabaseCopy'
-			'New-AzureRmSqlElasticPool'
 			'Remove-AzureRmSqlElasticPool'
 			'Set-AzureRmSqlDatabase'
 			'Set-AzureRmSqlElasticPool'

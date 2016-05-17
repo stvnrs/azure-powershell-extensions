@@ -69,7 +69,6 @@ $ArgumentCompleter = @{
 			'Get-AzureRmSqlDatabaseUpgradeHint'
 			'Get-AzureRmSqlElasticPoolDatabase'
 			'Get-AzureRmSqlServerServiceObjective'
-			'New-AzureRmSqlDatabase'
 			'New-AzureRmSqlDatabaseCopy'
 			'New-AzureRmSqlDatabaseDataMaskingRule'
 			'New-AzureRmSqlDatabaseSecondary'
